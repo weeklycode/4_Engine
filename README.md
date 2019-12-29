@@ -1,2 +1,2 @@
 # 4_Engine
-An engine written around 2016/2017
+A game engine written around 2016/2017
